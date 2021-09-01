@@ -1,0 +1,2 @@
+class NumeroMaximoException < StandardError
+end
